@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">live-wallpaper</string>
+    <string name="wallpaper">live-wallpaper</string>
+    <string name="normal_wallpaper_des">normal wallpaper des</string>
+    <string name="gl_wallpaper_des">gl wallpaper des</string>
+    <string name="advance_gl_wallpaper_des">advance gl wallpaper des</string>
+
+    <string name="normal_wallpaper_custom_settings">Normal Wallpaper Custom Settings</string>
+    <string name="normal_wallpaper_select">Normal Wallpaper Select</string>
+    <string name="gl_wallpaper_select">GL Wallpaper Select</string>
+    <string name="advance_gl_wallpaper_select">Advance GL Wallpaper Select</string>
+</resources>
